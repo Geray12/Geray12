@@ -8,5 +8,4 @@
 Geray12/Geray12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Gola soy un estudiante de mitad de samestre de la carrera de ingeniería en computación me atrae la química y como puedo representarla gráficamente en la computadora
-Me interesa tambien la arquitectura y las casas
+hola soy estudiante de la carrera de ingenieria en compútACION ADMINISTRATIVA. practico artes marciales me gusta la buena comida toco guitarra, me gustan lAs mujeres, me gustan los corridos tumbados y musica rap
